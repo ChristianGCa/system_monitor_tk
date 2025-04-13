@@ -82,7 +82,7 @@ def update_graph():
 
 # Cria a janela principal
 root = tk.Tk()
-root.title("System Monitor with Graphs")
+root.title("System Monitor Tk")
 root.configure(bg="#2b2b2b")
 root.geometry("800x600")
 
