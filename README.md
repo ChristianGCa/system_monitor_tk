@@ -26,12 +26,12 @@ Este projeto é um monitor de sistema para linux que exibe informações em temp
    pip install psutil matplotlib
 2. Execute o script monitor_gui.py:
     ```bash
-    python programs/monitor_gui.py
+    python scripts/monitor_gui.py
 ### Interface de terminal
 
 1. Basta executar:
     ```bash
-    python programs/terminal_monitor.py
+    python scripts/terminal_monitor.py
 ## Capturas de tela
 
 ### Interface gráfica:
